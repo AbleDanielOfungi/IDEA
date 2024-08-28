@@ -1,0 +1,1 @@
+This is a sample of the Admin Site for IDEA
